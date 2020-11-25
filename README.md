@@ -11,8 +11,14 @@
 
 The goal of this project is to pull an image from the Google Grive using Google Drive API [click here](https://developers.google.com/drive/api/v3/quickstart/python) using python or any language that you prefer and apply make up on the image pulled using python libraries.
 
-Input image:
-![alt text](https://github.com/IndupriyaKompi/Virtual-MakeUp-Application/blob/main/images/nicolascage.jpg "Logo Title Text 1")
+# Input image:
+
+![alt text](https://github.com/IndupriyaKompi/Virtual-MakeUp-Application/blob/main/images/nicolascage.jpg "Input image- Nicolas Cage")
+
+# Output image:
+
+![alt text](https://github.com/IndupriyaKompi/Virtual-MakeUp-Application/blob/main/images/OutputImage.png "Output image- Nicolas Cage")
+
 
 
 
