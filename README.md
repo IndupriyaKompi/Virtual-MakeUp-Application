@@ -6,7 +6,7 @@
 | Google Drive API      | 
 | Google Colaboratory      | 
 | Python3 | 
-| dliv |
+| dlib |
 | face_recognition library |
 
 The goal of this project is to pull an image from the Google Grive using Google Drive API [click here](https://developers.google.com/drive/api/v3/quickstart/python) using python or any language that you prefer and apply make up on the image pulled using python libraries.
